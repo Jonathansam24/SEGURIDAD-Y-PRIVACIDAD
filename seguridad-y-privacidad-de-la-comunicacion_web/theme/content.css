@@ -1,0 +1,483 @@
+/* ==========================================================
+   ESTILO: SEGURIDAD DIGITAL (v2)  ·  eXeLearning
+   Sobrio y cómodo para la vista: azul marino + un solo acento
+   turquesa. Astronautas flotando en el título.
+   IMPORTANTE: solo se estilan clases del CONTENIDO, nunca
+   elementos genéricos (button, nav, h1, a...) para no alterar
+   la interfaz del editor.
+   ========================================================== */
+
+:root {
+  --sd-navy-1: #0f1b36;
+  --sd-navy-2: #1a2d57;
+  --sd-accent: #4fd1c5;
+  --sd-accent-dark: #0b7a75;
+  --sd-ink: #1c2a44;
+  --sd-soft: #f3f6fb;
+  --sd-line: #d9e2f1;
+  --sd-astro: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 72'%3E%3Crect x='6' y='28' width='14' height='22' rx='6' fill='%23aab8dc'/%3E%3Crect x='16' y='28' width='32' height='28' rx='12' fill='%23f1f5ff'/%3E%3Crect x='2' y='32' width='16' height='9' rx='4.5' fill='%23dfe7fb' transform='rotate(-25 10 36)'/%3E%3Crect x='46' y='32' width='16' height='9' rx='4.5' fill='%23dfe7fb' transform='rotate(25 54 36)'/%3E%3Crect x='19' y='52' width='11' height='18' rx='5.5' fill='%23dfe7fb' transform='rotate(8 24 52)'/%3E%3Crect x='34' y='52' width='11' height='18' rx='5.5' fill='%23dfe7fb' transform='rotate(-8 40 52)'/%3E%3Ccircle cx='32' cy='20' r='16' fill='%23f8faff'/%3E%3Crect x='20' y='12' width='24' height='16' rx='8' fill='%231a2b52'/%3E%3Cellipse cx='27' cy='17.5' rx='4.5' ry='2.6' fill='%234fd1c5' opacity='.55'/%3E%3Crect x='26' y='38' width='12' height='8' rx='2' fill='%234fd1c5'/%3E%3C/svg%3E");
+  --sd-lock: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 40'%3E%3Cpath d='M8 18v-5a8 8 0 0 1 16 0v5' fill='none' stroke='%234fd1c5' stroke-width='3.5' stroke-linecap='round'/%3E%3Crect x='3' y='17' width='26' height='20' rx='5' fill='%234fd1c5'/%3E%3Ccircle cx='16' cy='26' r='3' fill='%230f1b36'/%3E%3Crect x='14.5' y='27' width='3' height='6' rx='1.5' fill='%230f1b36'/%3E%3C/svg%3E");
+  --sd-circuit: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'%3E%3Cg fill='none' stroke='%230f1b36' stroke-opacity='.06' stroke-width='1.2'%3E%3Cpath d='M0 30h40l12 12h30'/%3E%3Cpath d='M140 96h-36l-12-12H58'/%3E%3Cpath d='M70 0v26l14 14'/%3E%3Cpath d='M70 140v-30l-14-14'/%3E%3Cpath d='M110 0v18h30'/%3E%3Cpath d='M0 118h26l10-10'/%3E%3C/g%3E%3Cg fill='%234fd1c5' fill-opacity='.30'%3E%3Ccircle cx='40' cy='30' r='2.2'/%3E%3Ccircle cx='82' cy='42' r='2.2'/%3E%3Ccircle cx='104' cy='96' r='2.2'/%3E%3Ccircle cx='58' cy='84' r='2.2'/%3E%3Ccircle cx='84' cy='40' r='2.2'/%3E%3Ccircle cx='110' cy='18' r='2.2'/%3E%3Ccircle cx='36' cy='108' r='2.2'/%3E%3C/g%3E%3C/svg%3E");
+  --sd-shield: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 72'%3E%3Cpath d='M32 4 56 13v20c0 15-10 26-24 32C18 59 8 48 8 33V13z' fill='%234fd1c5' fill-opacity='.07' stroke='%230f1b36' stroke-opacity='.10' stroke-width='2' stroke-linejoin='round'/%3E%3Cpath d='M23 33v-5a9 9 0 0 1 18 0v5' fill='none' stroke='%230f1b36' stroke-opacity='.12' stroke-width='3' stroke-linecap='round'/%3E%3Crect x='19' y='32' width='26' height='19' rx='4' fill='%230f1b36' fill-opacity='.10'/%3E%3C/svg%3E");
+  --sd-stars: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='90'%3E%3Cg fill='%23fff'%3E%3Ccircle cx='14' cy='20' r='1.2' opacity='.7'/%3E%3Ccircle cx='52' cy='64' r='1' opacity='.5'/%3E%3Ccircle cx='88' cy='12' r='1.4' opacity='.8'/%3E%3Ccircle cx='122' cy='50' r='1' opacity='.5'/%3E%3Ccircle cx='160' cy='24' r='1.2' opacity='.7'/%3E%3Ccircle cx='196' cy='70' r='1.4' opacity='.6'/%3E%3Ccircle cx='104' cy='80' r='.9' opacity='.5'/%3E%3Ccircle cx='180' cy='6' r='.9' opacity='.5'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* ---------- TÍTULO (página y proyecto): banner compacto, texto centrado ---------- */
+.page-title,
+:is(.exe-web-site, .exe-single-page) .package-title {
+  position: relative;
+  box-sizing: border-box;
+  min-height: 64px;
+  margin: 1rem 0 1.3rem;
+  padding: .5rem clamp(90px, 12vw, 150px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-align: center;
+  /* tipografía: Bahnschrift (Windows) con respaldos */
+  font-family: "Bahnschrift", "Segoe UI Semibold", "Trebuchet MS", "Arial Narrow", sans-serif;
+  font-size: clamp(1.15rem, 2.4vw, 1.6rem);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  /* color: turquesa muy claro, en armonía con el acento del estilo */
+  color: #a6f2e8;
+  text-shadow: 0 0 14px rgba(79, 209, 197, .45), 0 2px 0 rgba(0, 0, 0, .28);
+  border-radius: 12px;
+  border-bottom: 2px solid var(--sd-accent);
+  box-shadow: 0 4px 14px rgba(15, 27, 54, .2);
+  background-color: var(--sd-navy-1);
+  background-image:
+    var(--sd-lock),
+    var(--sd-astro),
+    var(--sd-stars),
+    linear-gradient(135deg, var(--sd-navy-1), var(--sd-navy-2));
+  background-repeat: no-repeat, no-repeat, repeat, no-repeat;
+  background-size: 18px 23px, 24px 27px, 220px 90px, 100% 100%;
+  background-position: 18px 50%, 7% 20%, 0 0, 0 0;
+  animation: sd-drift 16s ease-in-out infinite alternate, sd-title-colors 80s linear infinite;
+}
+
+/* dos astronautas flotando a la derecha */
+.page-title::before,
+.page-title::after,
+:is(.exe-web-site, .exe-single-page) .package-title::before,
+:is(.exe-web-site, .exe-single-page) .package-title::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  background: var(--sd-astro) center / contain no-repeat;
+  pointer-events: none;
+}
+.page-title::before,
+:is(.exe-web-site, .exe-single-page) .package-title::before {
+  right: 16px;
+  width: 44px; height: 50px;
+  animation: sd-float-a 7s ease-in-out infinite;
+}
+.page-title::after,
+:is(.exe-web-site, .exe-single-page) .package-title::after {
+  right: 74px;
+  width: 28px; height: 32px;
+  opacity: .9;
+  animation: sd-float-b 9s ease-in-out infinite;
+}
+
+@keyframes sd-float-a {
+  0%, 100% { transform: translateY(-58%) rotate(-8deg); }
+  50%      { transform: translateY(-42%) rotate(9deg); }
+}
+@keyframes sd-float-b {
+  0%, 100% { transform: translateY(-40%) rotate(14deg); }
+  50%      { transform: translateY(-62%) rotate(-10deg); }
+}
+/* tercer astronauta (va en el fondo del título, por el lado izquierdo) */
+@keyframes sd-drift {
+  0%   { background-position: 18px 50%, 7% 12%, 0 0, 0 0; }
+  100% { background-position: 18px 50%, 11% 82%, 0 0, 0 0; }
+}
+
+/* ---------- COLOR DEL TÍTULO: cambia cada 10 s ----------
+   Paleta de 8 tonos suaves que combinan con el azul marino.
+   - Con style.js: el color se elige AL AZAR de la paleta cada 10 s.
+   - Sin style.js: se recorre la paleta en orden, también cada 10 s. */
+@keyframes sd-title-colors {
+  0.000%, 10.625% { color: #a6f2e8; text-shadow: 0 0 14px rgba(79, 209, 197, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  12.500%, 23.125% { color: #9fd8ff; text-shadow: 0 0 14px rgba(90, 170, 255, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  25.000%, 35.625% { color: #c5b8ff; text-shadow: 0 0 14px rgba(150, 130, 255, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  37.500%, 48.125% { color: #b8f5c8; text-shadow: 0 0 14px rgba(110, 220, 150, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  50.000%, 60.625% { color: #ffe9a6; text-shadow: 0 0 14px rgba(255, 200, 90, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  62.500%, 73.125% { color: #ffc2d4; text-shadow: 0 0 14px rgba(255, 130, 170, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  75.000%, 85.625% { color: #ffd2b0; text-shadow: 0 0 14px rgba(255, 160, 100, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  87.500%, 98.125% { color: #e6f0ff; text-shadow: 0 0 14px rgba(160, 190, 255, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+  100% { color: #a6f2e8; text-shadow: 0 0 14px rgba(79, 209, 197, .45), 0 2px 0 rgba(0, 0, 0, .28); }
+}
+
+:root { --sd-title-color: #a6f2e8; --sd-title-glow: rgba(79, 209, 197, .45); }
+
+.sd-rand :is(.page-title, .package-title) {
+  animation: sd-drift 16s ease-in-out infinite alternate;
+  color: var(--sd-title-color);
+  text-shadow: 0 0 14px var(--sd-title-glow), 0 2px 0 rgba(0, 0, 0, .28);
+  transition: color 1.5s ease, text-shadow 1.5s ease;
+}
+
+/* ---------- CAJAS DE CONTENIDO (iDevices) ----------
+   Tarjeta con fondo de circuitos muy tenue y un escudo de marca de agua.
+   El texto va sobre un panel casi blanco para que se lea con comodidad. */
+.box {
+  border-top: 3px solid var(--sd-accent);
+  border-radius: 12px;
+  box-shadow: 0 3px 14px rgba(15, 27, 54, .09);
+  background-color: #fff;
+  background-image:
+    var(--sd-shield),
+    var(--sd-circuit),
+    linear-gradient(180deg, #ffffff 0%, #f2f8ff 100%);
+  background-repeat: no-repeat, repeat, no-repeat;
+  background-size: 110px 124px, 140px 140px, 100% 100%;
+  background-position: right 18px bottom 14px, 0 0, 0 0;
+}
+.box-title {
+  color: var(--sd-ink);
+  font-weight: 700;
+}
+.exe-web-site .box-head {
+  padding-bottom: .5rem;
+  border-bottom: 1px dashed rgba(79, 209, 197, .55);
+}
+
+/* botón "Ocultar/Mostrar contenido": pastilla discreta */
+.exe-web-site :is(.box-toggle, .box-head button) {
+  padding: .25rem .85rem;
+  color: var(--sd-ink);
+  font: inherit;
+  font-size: .8rem;
+  font-weight: 600;
+  background: rgba(79, 209, 197, .12);
+  border: 1px solid rgba(79, 209, 197, .55);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background .2s, box-shadow .2s;
+}
+.exe-web-site :is(.box-toggle, .box-head button):hover,
+.exe-web-site :is(.box-toggle, .box-head button):focus-visible {
+  background: rgba(79, 209, 197, .25);
+  box-shadow: 0 0 0 3px rgba(79, 209, 197, .18);
+  outline: none;
+}
+
+/* ---------- TEXTO DE LOS TEMAS (solo dentro del iDevice de texto) ---------- */
+/* panel de lectura: fondo casi blanco, barra turquesa y buena interlínea */
+.exe-text {
+  margin: .6rem 0;
+  padding: .9rem 1.3rem;
+  color: #22304b;
+  font-size: 1.04rem;
+  line-height: 1.8;
+  background: rgba(255, 255, 255, .80);
+  border-left: 4px solid rgba(79, 209, 197, .75);
+  border-radius: 0 12px 12px 0;
+  box-shadow: 0 1px 8px rgba(15, 27, 54, .05);
+}
+.exe-text p { margin: 0 0 .95rem; }
+.exe-text p:last-child { margin-bottom: 0; }
+.exe-text strong { color: var(--sd-navy-1); }
+.exe-text h2, .exe-text h3 { color: var(--sd-navy-2); }
+.exe-text h2 { border-bottom: 2px solid var(--sd-accent); padding-bottom: .25rem; }
+.exe-text a { color: var(--sd-accent-dark); }
+.exe-text li::marker { color: var(--sd-accent-dark); }
+.exe-text blockquote {
+  margin: 1.2rem 0;
+  padding: .8rem 1.1rem;
+  background: var(--sd-soft);
+  border-left: 5px solid var(--sd-accent);
+  border-radius: 0 8px 8px 0;
+}
+.exe-text code {
+  padding: .1rem .35rem;
+  color: #0b4f6c;
+  background: #e8f1fb;
+  border-radius: 4px;
+}
+
+/* ---------- SOLO EN LA PÁGINA EXPORTADA / VISTA PREVIA ---------- */
+/* fondo de la página: tono claro con brillos muy tenues y trama de puntos */
+:is(.exe-web-site, .exe-single-page) {
+  min-height: 100vh;
+  background-color: var(--sd-soft);
+  background-image:
+    radial-gradient(ellipse 60% 40% at 0% 0%, rgba(79, 209, 197, .13), transparent 70%),
+    radial-gradient(ellipse 55% 40% at 100% 100%, rgba(138, 92, 255, .08), transparent 70%),
+    radial-gradient(rgba(15, 27, 54, .08) 1px, transparent 1.4px);
+  background-size: auto, auto, 26px 26px;
+  background-repeat: no-repeat, no-repeat, repeat;
+}
+
+/* ==========================================================
+   MENÚ HAMBURGUESA  (☰ → ✕)
+   Barra superior fija con el botón de 3 rayas. Al pulsarlo se
+   despliega un panel con las páginas numeradas y un astronauta
+   asomado. Con style.js se abre/cierra al hacer clic; sin él,
+   se abre al pasar el cursor o al tocar la barra.
+   ========================================================== */
+.exe-web-site #siteNav {
+  --sd-w: min(330px, calc(100vw - 24px));
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 56px;
+  margin: 0;
+  padding: 0;
+  float: none;
+  background: var(--sd-navy-1);
+  border-bottom: 2px solid rgba(79, 209, 197, .45);
+  box-shadow: 0 4px 14px rgba(15, 27, 54, .25);
+}
+.exe-web-site #main { margin-left: 0; }
+
+/* --- botón de 3 rayas (lo crea style.js) --- */
+.exe-web-site #siteNav .sd-burger {
+  display: inline-flex;
+  align-items: center;
+  gap: .75rem;
+  margin: 9px 12px;
+  padding: .5rem 1rem .5rem .9rem;
+  color: #eaf2ff;
+  font: inherit;
+  font-size: .85rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  background: rgba(79, 209, 197, .10);
+  border: 1px solid rgba(79, 209, 197, .45);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background .2s, border-color .2s, box-shadow .2s;
+}
+.exe-web-site #siteNav .sd-burger:hover,
+.exe-web-site #siteNav .sd-burger:focus-visible,
+.exe-web-site #siteNav.sd-open .sd-burger {
+  background: rgba(79, 209, 197, .20);
+  border-color: var(--sd-accent);
+  box-shadow: 0 0 0 3px rgba(79, 209, 197, .18);
+  outline: none;
+}
+.exe-web-site #siteNav .sd-current {
+  max-width: 40vw;
+  padding-left: .8rem;
+  overflow: hidden;
+  color: #a9bde6;
+  font-weight: 500;
+  letter-spacing: .3px;
+  text-transform: none;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  border-left: 1px solid rgba(207, 220, 245, .3);
+}
+
+/* las 3 rayas: la del medio es más corta; al abrir se vuelven una X */
+.exe-web-site #siteNav .sd-bars {
+  position: relative;
+  display: block;
+  width: 15px;
+  height: 2px;
+  margin-right: 7px;
+  background: var(--sd-accent);
+  border-radius: 2px;
+  transition: background .2s;
+}
+.exe-web-site #siteNav .sd-bars::before,
+.exe-web-site #siteNav .sd-bars::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 22px;
+  height: 2px;
+  background: var(--sd-accent);
+  border-radius: 2px;
+  transition: transform .25s ease, top .25s ease;
+}
+.exe-web-site #siteNav .sd-bars::before { top: -7px; }
+.exe-web-site #siteNav .sd-bars::after  { top: 7px; }
+.exe-web-site #siteNav.sd-open .sd-bars { background: transparent; }
+.exe-web-site #siteNav.sd-open .sd-bars::before { top: 0; transform: rotate(45deg); }
+.exe-web-site #siteNav.sd-open .sd-bars::after  { top: 0; transform: rotate(-45deg); }
+
+/* --- respaldo sin JavaScript: las 3 rayas dibujadas con CSS --- */
+.exe-web-site #siteNav:not(.sd-js)::before {
+  content: "MENÚ";
+  position: absolute;
+  left: 12px;
+  top: 9px;
+  box-sizing: border-box;
+  height: 38px;
+  padding: 0 1rem 0 46px;
+  color: #eaf2ff;
+  font-size: .85rem;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 1.5px;
+  background-color: rgba(79, 209, 197, .10);
+  background-image:
+    linear-gradient(var(--sd-accent), var(--sd-accent)),
+    linear-gradient(var(--sd-accent), var(--sd-accent)),
+    linear-gradient(var(--sd-accent), var(--sd-accent));
+  background-repeat: no-repeat;
+  background-size: 22px 2px, 15px 2px, 22px 2px;
+  background-position: 12px 11px, 12px 17px, 12px 23px;
+  border: 1px solid rgba(79, 209, 197, .45);
+  border-radius: 10px;
+}
+
+/* --- panel desplegable --- */
+.exe-web-site #siteNav ul:not(ul ul) {
+  position: absolute;
+  top: 100%;
+  left: 12px;
+  box-sizing: border-box;
+  width: var(--sd-w);
+  max-height: 70vh;
+  margin: 0;
+  padding: 1.5rem .5rem .6rem;
+  overflow-y: auto;
+  list-style: none;
+  counter-reset: sd-n;
+  background: linear-gradient(180deg, #13234a, var(--sd-navy-1));
+  border: 1px solid rgba(79, 209, 197, .35);
+  border-top: 0;
+  border-radius: 0 0 14px 14px;
+  box-shadow: 0 18px 40px rgba(5, 10, 25, .45);
+  scrollbar-width: thin;
+  scrollbar-color: rgba(79, 209, 197, .5) transparent;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-8px);
+  transform-origin: 24px 0;
+  transition: opacity .22s ease, transform .22s ease, visibility 0s linear .22s;
+}
+.exe-web-site #siteNav.sd-open ul:not(ul ul),
+.exe-web-site #siteNav:not(.sd-js):hover ul:not(ul ul),
+.exe-web-site #siteNav:not(.sd-js):focus-within ul:not(ul ul) {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+  transition-delay: 0s;
+}
+
+/* astronauta asomado al borde del panel */
+.exe-web-site #siteNav::after {
+  content: "";
+  position: absolute;
+  top: calc(100% - 14px);
+  left: calc(12px + var(--sd-w) - 62px);
+  width: 36px;
+  height: 40px;
+  background: var(--sd-astro) center / contain no-repeat;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .3s ease;
+  animation: sd-float-m 5s ease-in-out infinite;
+}
+.exe-web-site #siteNav.sd-open::after,
+.exe-web-site #siteNav:not(.sd-js):hover::after,
+.exe-web-site #siteNav:not(.sd-js):focus-within::after { opacity: 1; }
+@keyframes sd-float-m {
+  0%, 100% { transform: translateY(0) rotate(-6deg); }
+  50%      { transform: translateY(-5px) rotate(7deg); }
+}
+
+/* --- opciones del menú --- */
+.exe-web-site #siteNav li { margin: 0; padding: 0; list-style: none; }
+.exe-web-site #siteNav li::before { content: none; }
+.exe-web-site #siteNav a {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin: 2px 0;
+  padding: .65rem .9rem;
+  color: #cfdcf5;
+  font-size: .98rem;
+  text-decoration: none;
+  border-left: 3px solid transparent;
+  border-radius: 8px;
+  transition: background .18s, color .18s, padding-left .18s, border-color .18s;
+}
+.exe-web-site #siteNav a:hover,
+.exe-web-site #siteNav a:focus-visible {
+  padding-left: 1.15rem;
+  color: #fff;
+  background: rgba(79, 209, 197, .12);
+  outline: none;
+}
+.exe-web-site #siteNav a.active,
+.exe-web-site #siteNav li.active > a {
+  color: #fff;
+  font-weight: 700;
+  background: rgba(79, 209, 197, .16);
+  border-left-color: var(--sd-accent);
+}
+/* numeración 01, 02, 03… */
+.exe-web-site #siteNav ul:not(ul ul) > li { counter-increment: sd-n; }
+.exe-web-site #siteNav ul:not(ul ul) > li > a::before {
+  content: counter(sd-n, decimal-leading-zero);
+  min-width: 1.6em;
+  color: var(--sd-accent);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+/* subpáginas */
+.exe-web-site #siteNav ul ul {
+  margin: 0 0 .3rem 1.2rem;
+  padding: 0 0 0 .5rem;
+  list-style: none;
+  border-left: 1px dashed rgba(79, 209, 197, .35);
+}
+.exe-web-site #siteNav ul ul a { font-size: .92rem; }
+.exe-web-site #siteNav ul ul a::before { content: "↳"; color: var(--sd-accent); }
+
+@media (max-width: 520px) {
+  .exe-web-site #siteNav .sd-current { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .exe-web-site #siteNav *, .exe-web-site #siteNav::after,
+  .exe-web-site #siteNav ul:not(ul ul) { animation: none !important; transition: none !important; }
+}
+
+/* ---------- TÍTULO DEL PROYECTO: SOLO EN LA PRIMERA PÁGINA ----------
+   Se oculta en todas las páginas, salvo cuando la página activa en el
+   menú es la primera (la de arriba del todo). Si el navegador no
+   soporta :has(), no se oculta nada (el título sale en todas). */
+@supports selector(:has(a)) {
+  .exe-web-site:not(:has(#siteNav ul:not(ul ul) > li:first-child:is(.active, :has(> a.active)))) .package-title {
+    display: none;
+  }
+}
+
+/* ---------- ACCESIBILIDAD ---------- */
+@media (max-width: 640px) {
+  .page-title,
+  :is(.exe-web-site, .exe-single-page) .package-title {
+    padding-inline: 56px;
+    letter-spacing: 1.5px;
+    background-size: 16px 20px, 0 0, 220px 90px, 100% 100%;
+  }
+  .page-title::after,
+  :is(.exe-web-site, .exe-single-page) .package-title::after { display: none; }
+  .page-title::before,
+  :is(.exe-web-site, .exe-single-page) .package-title::before { right: 8px; width: 36px; height: 41px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .page-title, .page-title::before, .page-title::after,
+  .package-title, .package-title::before, .package-title::after { animation: none !important; }
+}
+@media print {
+  .box, .exe-text { background: none; box-shadow: none; }
+  .page-title, .package-title { color: #000; background: none; box-shadow: none; border-bottom: 2px solid #000; }
+  .page-title::before, .page-title::after, .package-title::before, .package-title::after { display: none; }
+}
