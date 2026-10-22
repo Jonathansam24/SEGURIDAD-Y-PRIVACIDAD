@@ -4,7 +4,7 @@
 <userPreferences>
   <userPreference>
     <key>theme</key>
-    <value>seguridad-digital</value>
+    <value>privacidad-hacker</value>
   </userPreference>
 </userPreferences>
 <odeResources>
@@ -40,7 +40,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_theme</key>
-    <value>seguridad-digital</value>
+    <value>privacidad-hacker</value>
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1792599211848</value>
+    <value>1792683703501</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -263,6 +263,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792610304943-hxqbh1qv2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/rHDTJQKW2y8?si=7HgC1B48AHQ8g0Qu\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -278,6 +290,30 @@
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>OBJETIVO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>OBJETIVO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -321,6 +357,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792602811340-whkkwutjb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Reconocer los fundamentos de la seguridad y la privacidad digital para identificar amenazas comunes en la red y adoptar prácticas esenciales de protección de datos personales en el intercambio de información.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -371,6 +419,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-mvidn5ug-eojqluot7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">Distinguir los conceptos de seguridad y privacidad digital, comprendiendo cómo la confidencialidad, integridad y disponibilidad de la información garantizan la protección de los datos. </span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">Explicar el funcionamiento del cifrado de extremo a extremo y su papel clave en el resguardo de la confidencialidad en canales de comunicación electrónica. </span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">Identificar señales de alerta ante ataques de ingeniería social y malware (como phishing, vishing, smishing, quishing y ransomware).</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">Administrar de forma proactiva la identidad y la huella digital, reduciendo la exposición innecesaria de información sensible en línea. </span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">Ejecutar medidas preventivas de ciberseguridad y aplicar un protocolo básico de respuesta ante un incidente o brecha de seguridad. </span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -387,13 +447,37 @@
       <key>titlePage</key>
       <value>DESARROLLO DE TEMAS</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESARROLLO DE TEMAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mvidqrul-6q7x6q0i9</odePageId>
       <odeBlockId>block-mviho24d-p6ayzyxp3</odeBlockId>
       <blockName>TEMAS</blockName>
-      <iconName>mi-laptop_chromebook</iconName>
+      <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -436,6 +520,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792609929660-uyepnllrh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: helvetica, arial, sans-serif;\">El temario va de lo básico a lo específico. Empezamos afianzando los conceptos con los principios de seguridad (confidencialidad, integridad y disponibilidad), luego checamos la comunicación digital y sus peligros, seguimos con las buenas prácticas de privacidad y terminamos con las leyes en México y la guía de qué hacer si te toca ser víctima de un fraude. </span></p>\n<ol>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">COMUNICACIÓN DIGITAL Y SUS RIESGOS</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">MARCO LEGAL EN MÉXICO</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</span></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -443,10 +539,48 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-mvj1wdok-emo0sahao</odePageId>
+  <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
+  <pageName>ATAQUES CIBERNÉTICOS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATAQUES CIBERNÉTICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATAQUES CIBERNÉTICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>7ACA1C773BE4496DB657</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
   <pageName>PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -762,28 +896,8 @@
   <odePageId>page-mvifhoo1-7rrjq3h55</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
   <pageName>COMUNICACIÓN DIGITAL Y SUS RIESGOS</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>COMUNICACIÓN DIGITAL Y SUS RIESGOS</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>COMUNICACIÓN DIGITAL Y SUS RIESGOS</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>COMUNICACIÓN DIGITAL Y SUS RIESGOS</value>
@@ -795,6 +909,26 @@
     <odeNavStructureProperty>
       <key>highlight</key>
       <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMUNICACIÓN DIGITAL Y SUS RIESGOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>COMUNICACIÓN DIGITAL Y SUS RIESGOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>description</key>
@@ -848,6 +982,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792606348091-8bklqaflj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: helvetica, arial, sans-serif;\">La comunicación digital se refiere a cualquier tipo de intercambio de información que se realiza a través de medios electrónicos. Esto incluye una amplia gama de actividades, desde el envío de correo electrónicos y mensajes de texto, hasta la publicación en redes sociales y realización de videoconferencias.</span></p>\n<h3><em><span style=\"font-family: helvetica, arial, sans-serif;\">¿Cuáles son las características de la comunicación digital?</span></em></h3>\n<ul>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Inmediatez:</strong> La capacidad de transmitir y recibir información al instante es una de las principales ventajas de la comunicación digital. Esto facilita la toma de decisiones rápida y la resolución eficiente de problemas.</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Interactividad:</strong> La comunicación digital es altamente interactiva, permitiendo a los usuarios no sólo recibir información, sino también responder y participar en conversaciones en tiempo real. Las redes sociales y las plataformas de mensajería son ejemplos claros de esta interactividad.</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Accesibilidad:</strong> La comunicación digital es accesible desde prácticamente cualquier lugar del mundo con una conexión a Internet. Esto permite a las personas mantenerse conectadas sin importar su ubicación geográfica.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -898,6 +1044,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-mvifp5jt-8483euhx1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Privacidad de datos</h3>\n<p>La privacidad de datos es uno de los grandes temas de hoy. Con tanta información personal compartida en línea, es vital proteger nuestros datos. Las personas deben ser conscientes de cómo se utilizan sus datos y qué riesgos implica compartir información personal en plataformas digitales.</p>\n<h3>Ciberseguridad</h3>\n<p>La ciberseguridad es esencial en la comunicación digital. Las amenazas como el hacking y el phishing son comunes y pueden comprometer nuestra información. Es importante conocer las mejores prácticas para protegerse, como usar contraseñas fuertes y estar al tanto de estafas en línea.</p>\n<h3>Desinformación</h3>\n<p>La desinformación se ha vuelto un gran desafío en la comunicación digital. Con tantas fuentes de información disponibles, es fácil caer en falsedades y rumores. Es fundamental aprender a verificar la información y utilizar fuentes confiables para evitar la propagación de contenido engañoso.</p>\n<p><img src=\"{{context_path}}/content/resources/Digital-Security-scaled.jpg\" width=\"1536\" height=\"878\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -908,7 +1066,7 @@
   <odePageId>95F4710CEEFB4D938240</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
   <pageName>BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1317,6 +1475,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792609851415-pe2yisgtd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/MXf-YGQr6jI?si=dt05M6hnueDVK50j\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1327,7 +1497,7 @@
   <odePageId>EC998DDFBD21465796C3</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
   <pageName>MARCO LEGAL EN MÉXICO</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1633,7 +1803,7 @@
   <odePageId>CE6C6875C9C54F9C9C1F</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
   <pageName>QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1798,11 +1968,35 @@
   <odePageId>page-mvihxarl-iy0nnd5ny</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>REFERENCIAS</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>REFERENCIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>REFERENCIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1850,6 +2044,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1792610365399-yevzvgn5q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Biblioteca de la Universidad de Alicante. (s. f.). Riesgos en el entorno digital. En Normas, riesgos y buenas prácticas digitales. <a href=\"https://moodle2025-26.ua.es/moodle/pluginfile.php/141968/mod_resource/content/25/riesgos_en_el_entorno_digital.html\">https://moodle2025-26.ua.es/moodle/pluginfile.php/141968/mod_resource/content/25/riesgos_en_el_entorno_digital.html</a></p>\n<p>Guallo Cuzco, F. (s. f.). Riesgos de la comunicación digital [Documento]. Scribd. <a href=\"https://es.scribd.com/document/867606144/Riesgos-y-Desafios\">https://es.scribd.com/document/867606144/Riesgos-y-Desafios</a></p>\n<p>Méndez Colmenares, D. (s. f.). Comunicación digital: Qué es, tipos y características. CEUPE. <a href=\"https://www.ceupe.com/blog/comunicacion-digital.html\">https://www.ceupe.com/blog/comunicacion-digital.html</a></p>\n<p>Reyna, M. (2025, 25 de marzo). Privacidad, seguridad y protección de datos: Una prioridad para empresas en la era digital. PPSTech México. <a href=\"https://ppstech.mx/blog/privacidad-y-proteccion-de-datos/\">https://ppstech.mx/blog/privacidad-y-proteccion-de-datos/</a></p>\n<p>Tablado, F. (2024, 23 de julio). ¿Qué es la privacidad digital y cómo gestionarla? Grupo Atico34. <a href=\"https://protecciondatos-lopd.com/empresas/privacidad-digital/\">https://protecciondatos-lopd.com/empresas/privacidad-digital/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
