@@ -48,11 +48,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1792683703501</value>
+    <value>1792699013001</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
-    <value>true</value>
+    <value>false</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addPagination</key>
@@ -131,7 +131,7 @@
     <odePagStructure>
       <odePageId>ebb92791-56df-4871-819d-9827d9f3313c</odePageId>
       <odeBlockId>block-mvhnlk3l-m080858y5</odeBlockId>
-      <blockName>¿Qué es la privacidad?</blockName>
+      <blockName>¿QUÉ ES LA PRIVACIDAD?</blockName>
       <iconName>mi-security</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
@@ -198,7 +198,7 @@
     <odePagStructure>
       <odePageId>ebb92791-56df-4871-819d-9827d9f3313c</odePageId>
       <odeBlockId>block-mvid5z92-rrd4bw7ky</odeBlockId>
-      <blockName>¿Qué es la seguridad?</blockName>
+      <blockName>¿QUÉ ES LA SEGURIDAD?</blockName>
       <iconName>mi-security</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -510,368 +510,13 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><span style="font-family: helvetica, arial, sans-serif;">El temario va de lo básico a lo específico. Empezamos afianzando los conceptos con los principios de seguridad (confidencialidad, integridad y disponibilidad), luego checamos la comunicación digital y sus peligros, seguimos con las buenas prácticas de privacidad y terminamos con las leyes en México y la guía de qué hacer si te toca ser víctima de un fraude. </span></p>
 <ol>
-<li><span style="font-family: helvetica, arial, sans-serif;">PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</span></li>
 <li><span style="font-family: helvetica, arial, sans-serif;">COMUNICACIÓN DIGITAL Y SUS RIESGOS</span></li>
-<li><span style="font-family: helvetica, arial, sans-serif;">BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</span></li>
-<li><span style="font-family: helvetica, arial, sans-serif;">MARCO LEGAL EN MÉXICO</span></li>
+<li><span style="font-family: helvetica, arial, sans-serif;">ATAQUES CIBERNÉTICOS</span></li>
+<li><span style="font-family: helvetica, arial, sans-serif;">MALWARE</span></li>
 <li><span style="font-family: helvetica, arial, sans-serif;">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</span></li>
 </ol>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792609929660-uyepnllrh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: helvetica, arial, sans-serif;\">El temario va de lo básico a lo específico. Empezamos afianzando los conceptos con los principios de seguridad (confidencialidad, integridad y disponibilidad), luego checamos la comunicación digital y sus peligros, seguimos con las buenas prácticas de privacidad y terminamos con las leyes en México y la guía de qué hacer si te toca ser víctima de un fraude. </span></p>\n<ol>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">COMUNICACIÓN DIGITAL Y SUS RIESGOS</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">MARCO LEGAL EN MÉXICO</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</span></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-mvj1wdok-emo0sahao</odePageId>
-  <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
-  <pageName>ATAQUES CIBERNÉTICOS</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>ATAQUES CIBERNÉTICOS</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>ATAQUES CIBERNÉTICOS</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>7ACA1C773BE4496DB657</odePageId>
-  <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
-  <pageName>PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>PRINCIPIOS DE LA SEGURIDAD: CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>description</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>7ACA1C773BE4496DB657</odePageId>
-      <odeBlockId>F8707509DA314F57BADC</odeBlockId>
-      <blockName>La tríada CIA</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>7ACA1C773BE4496DB657</odePageId>
-          <odeBlockId>F8707509DA314F57BADC</odeBlockId>
-          <odeIdeviceId>04D42C3EEBBE4AA4B09C</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>En seguridad de la información se habla de la <strong>tríada CIA</strong> (por sus siglas en inglés: <em>Confidentiality, Integrity, Availability</em>). Reúne los tres objetivos principales de la seguridad de datos y de los sistemas seguros: confidencialidad, integridad y disponibilidad. Sirve como marco para diseñar sistemas seguros, revisar su seguridad y capacitar a las personas (Check Point Software, s. f.).</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"04D42C3EEBBE4AA4B09C","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>En seguridad de la información se habla de la <strong>tríada CIA</strong> (por sus siglas en inglés: <em>Confidentiality, Integrity, Availability</em>). Reúne los tres objetivos principales de la seguridad de datos y de los sistemas seguros: confidencialidad, integridad y disponibilidad. Sirve como marco para diseñar sistemas seguros, revisar su seguridad y capacitar a las personas (Check Point Software, s. f.).</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>7ACA1C773BE4496DB657</odePageId>
-      <odeBlockId>4E0D2244E2B842B5912B</odeBlockId>
-      <blockName>Confidencialidad</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>7ACA1C773BE4496DB657</odePageId>
-          <odeBlockId>4E0D2244E2B842B5912B</odeBlockId>
-          <odeIdeviceId>BECDCF2054DE436DB09C</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Consiste en mantener en secreto los datos sensibles para que solo accedan a ellos las personas autorizadas. Un ejemplo claro es el cifrado: los datos cifrados solo pueden leerse con la clave de descifrado, de modo que un atacante que los obtenga no puede usarlos. Se logra con cifrado sólido y con controles de acceso que protejan las claves (Check Point Software, s. f.).</p><p><em>En la comunicación:</em> que solo la persona que envía y la que recibe puedan leer el mensaje.</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"BECDCF2054DE436DB09C","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>Consiste en mantener en secreto los datos sensibles para que solo accedan a ellos las personas autorizadas. Un ejemplo claro es el cifrado: los datos cifrados solo pueden leerse con la clave de descifrado, de modo que un atacante que los obtenga no puede usarlos. Se logra con cifrado sólido y con controles de acceso que protejan las claves (Check Point Software, s. f.).</p><p><em>En la comunicación:</em> que solo la persona que envía y la que recibe puedan leer el mensaje.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>7ACA1C773BE4496DB657</odePageId>
-      <odeBlockId>89D729B3F13246BE9936</odeBlockId>
-      <blockName>Integridad</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>7ACA1C773BE4496DB657</odePageId>
-          <odeBlockId>89D729B3F13246BE9936</odeBlockId>
-          <odeIdeviceId>4714944A90304FAEAD0D</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Garantiza que los datos sean auténticos y que no hayan sido modificados por personas no autorizadas. Por ejemplo, si el valor <em>hash</em> o la suma de comprobación de un archivo no coincide con el original, significa que los datos fueron alterados. Se protege con controles de acceso, hashes y firmas digitales, que solo pueden generarse con una clave privada específica (Check Point Software, s. f.).</p><p><em>En la comunicación:</em> que el mensaje llegue tal como se envió, sin que nadie lo cambie en el camino.</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"4714944A90304FAEAD0D","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>Garantiza que los datos sean auténticos y que no hayan sido modificados por personas no autorizadas. Por ejemplo, si el valor <em>hash</em> o la suma de comprobación de un archivo no coincide con el original, significa que los datos fueron alterados. Se protege con controles de acceso, hashes y firmas digitales, que solo pueden generarse con una clave privada específica (Check Point Software, s. f.).</p><p><em>En la comunicación:</em> que el mensaje llegue tal como se envió, sin que nadie lo cambie en el camino.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>7ACA1C773BE4496DB657</odePageId>
-      <odeBlockId>1845954D33384293BFE6</odeBlockId>
-      <blockName>Disponibilidad</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>7ACA1C773BE4496DB657</odePageId>
-          <odeBlockId>1845954D33384293BFE6</odeBlockId>
-          <odeIdeviceId>38E81F1C031C43EC8497</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Implica que los datos y los sistemas estén accesibles para su uso legítimo cuando se necesitan. Los cortes de energía o de Internet, los desastres naturales, los ataques de denegación de servicio (DDoS) y el ransomware pueden dejar los sistemas fuera de servicio. Para protegerla se usan resiliencia y redundancia, administración de parches, mitigaciones anti-DDoS, protección de los equipos y copias de seguridad (Check Point Software, s. f.).</p><p><em>En la comunicación:</em> poder usar el correo, la mensajería o la videollamada cuando se necesita.</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"38E81F1C031C43EC8497","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>Implica que los datos y los sistemas estén accesibles para su uso legítimo cuando se necesitan. Los cortes de energía o de Internet, los desastres naturales, los ataques de denegación de servicio (DDoS) y el ransomware pueden dejar los sistemas fuera de servicio. Para protegerla se usan resiliencia y redundancia, administración de parches, mitigaciones anti-DDoS, protección de los equipos y copias de seguridad (Check Point Software, s. f.).</p><p><em>En la comunicación:</em> poder usar el correo, la mensajería o la videollamada cuando se necesita.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>7ACA1C773BE4496DB657</odePageId>
-      <odeBlockId>184DCBAA4A034767BAD8</odeBlockId>
-      <blockName>Otros conceptos relacionados</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>4</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>7ACA1C773BE4496DB657</odePageId>
-          <odeBlockId>184DCBAA4A034767BAD8</odeBlockId>
-          <odeIdeviceId>3DFD57E7045F48D8A759</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<ul><li><strong>Autenticidad:</strong> estar seguros de que quien envía el mensaje es quien dice ser. Se refuerza con contraseñas robustas y con la verificación en dos pasos.</li><li><strong>No repudio:</strong> que quien envía un mensaje o firma un documento no pueda negar después que lo hizo. Las firmas digitales apoyan este objetivo.</li></ul>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"3DFD57E7045F48D8A759","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<ul><li><strong>Autenticidad:</strong> estar seguros de que quien envía el mensaje es quien dice ser. Se refuerza con contraseñas robustas y con la verificación en dos pasos.</li><li><strong>No repudio:</strong> que quien envía un mensaje o firma un documento no pueda negar después que lo hizo. Las firmas digitales apoyan este objetivo.</li></ul>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792609929660-uyepnllrh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: helvetica, arial, sans-serif;\">El temario va de lo básico a lo específico. Empezamos afianzando los conceptos con los principios de seguridad (confidencialidad, integridad y disponibilidad), luego checamos la comunicación digital y sus peligros, seguimos con las buenas prácticas de privacidad y terminamos con las leyes en México y la guía de qué hacer si te toca ser víctima de un fraude. </span></p>\n<ol>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">COMUNICACIÓN DIGITAL Y SUS RIESGOS</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">ATAQUES CIBERNÉTICOS</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">MALWARE</span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</span></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -896,7 +541,7 @@
   <odePageId>page-mvifhoo1-7rrjq3h55</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
   <pageName>COMUNICACIÓN DIGITAL Y SUS RIESGOS</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1063,14 +708,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>95F4710CEEFB4D938240</odePageId>
+  <odePageId>page-mvj1wdok-emo0sahao</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
-  <pageName>BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <pageName>ATAQUES CIBERNÉTICOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</value>
+      <value>ATAQUES CIBERNÉTICOS</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -1090,89 +735,18 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</value>
+      <value>ATAQUES CIBERNÉTICOS</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>BUENAS PRÁCTICAS DE SEGURIDAD Y PRIVACIDAD</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>description</key>
       <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>95F4710CEEFB4D938240</odePageId>
-      <odeBlockId>55F82A143AEE4AE4AB1A</odeBlockId>
-      <blockName>1. Contraseñas robustas y únicas</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>95F4710CEEFB4D938240</odePageId>
-          <odeBlockId>55F82A143AEE4AE4AB1A</odeBlockId>
-          <odeIdeviceId>2B2219844E26465F8B8B</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">De acuerdo con las recomendaciones del Instituto Nacional de Ciberseguridad (INCIBE, 2024), la efectividad de una clave de acceso reside en la integración de diversos tipos de caracteres, descartando por completo el uso de términos cotidianos o información personal. Asimismo, la entidad advierte que uno de los errores más habituales es emplear una misma credencial en múltiples plataformas, pues la reutilización invalida su capacidad de protección, sin importar lo compleja que sea la combinación.</span></p>
-<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Para mantener una postura de ciberseguridad sólida, se destacan los siguientes principios:</span></p>
-<ul>
-<li style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Unicidad por servicio: Asignar una credencial completamente distinta e independiente para cada cuenta o aplicación.</span></li>
-<li style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Sin rastros personales: Omitir datos identificables como nombres propios, fechas de nacimiento o palabras comunes del diccionario.</span></li>
-<li style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Priorizar la extensión: Aplicar la regla de que, a mayor longitud de la contraseña, exponencialmente más complejo resulta descifrarla.</span></li>
-<li style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Uso de gestores de contraseñas: Implementar estas herramientas para administrar las credenciales mediante el resguardo de una sola clave maestra. Los gestores encriptan la información almacenada, crean combinaciones aleatorias de alta seguridad y facilitan la autenticación automática (INCIBE, 2024).</span></li>
-</ul>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"2B2219844E26465F8B8B","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">De acuerdo con las recomendaciones del Instituto Nacional de Ciberseguridad (INCIBE, 2024), la efectividad de una clave de acceso reside en la integración de diversos tipos de caracteres, descartando por completo el uso de términos cotidianos o información personal. Asimismo, la entidad advierte que uno de los errores más habituales es emplear una misma credencial en múltiples plataformas, pues la reutilización invalida su capacidad de protección, sin importar lo compleja que sea la combinación.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Para mantener una postura de ciberseguridad sólida, se destacan los siguientes principios:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Unicidad por servicio: Asignar una credencial completamente distinta e independiente para cada cuenta o aplicación.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Sin rastros personales: Omitir datos identificables como nombres propios, fechas de nacimiento o palabras comunes del diccionario.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Priorizar la extensión: Aplicar la regla de que, a mayor longitud de la contraseña, exponencialmente más complejo resulta descifrarla.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Uso de gestores de contraseñas: Implementar estas herramientas para administrar las credenciales mediante el resguardo de una sola clave maestra. Los gestores encriptan la información almacenada, crean combinaciones aleatorias de alta seguridad y facilitan la autenticación automática (INCIBE, 2024).</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>95F4710CEEFB4D938240</odePageId>
-      <odeBlockId>60BF8B1D27B4431D94F3</odeBlockId>
-      <blockName>2. Verificación en dos pasos (2FA)</blockName>
+      <odePageId>page-mvj1wdok-emo0sahao</odePageId>
+      <odeBlockId>block-mvjsylsu-i1tm00uxz</odeBlockId>
+      <blockName>¿QUÉ ES?</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1199,44 +773,31 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>95F4710CEEFB4D938240</odePageId>
-          <odeBlockId>60BF8B1D27B4431D94F3</odeBlockId>
-          <odeIdeviceId>E25FA23E61724937A1D4</odeIdeviceId>
+          <odePageId>page-mvj1wdok-emo0sahao</odePageId>
+          <odeBlockId>block-mvjsylsu-i1tm00uxz</odeBlockId>
+          <odeIdeviceId>idevice-1792689363677-8v18amh8e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Añade un segundo paso al inicio de sesión: además de la contraseña, el servicio pide un código único. Puede llegar por SMS, generarse en una aplicación, recibirse por llamada o usarse mediante una llave de seguridad física. Si alguien consigue tu contraseña (por ejemplo, con phishing), no puede entrar sin ese segundo elemento.</p>
-<ul>
-<li>No dependas solo de ella: mantén también una contraseña robusta.</li>
-<li>Configura los métodos de recuperación antes de necesitarlos, porque perder el dispositivo que recibe los códigos es el principal inconveniente.</li>
-<li>Protege tu equipo: un malware podría eludir la verificación.</li>
-<li>Nunca compartas los códigos que recibes, aunque quien te los pida diga ser del banco.</li>
-</ul>
+    <p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Un ciberataque es cualquier esfuerzo intencional para robar, exponer alterar, deshabilitar o destruir datos, aplicaciones u otros activos a través del acceso no autorizado a una red informática, sistema informático o dispositivo digital.</span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Los atacantes explotarán todo tipo de vulnerabilidad, desde aplicaciones web sin parches hasta servicios en la nube mal configurados, para comprometer un sistema objetivo e interrumpir su funcionalidad. Para mitigar estas amenazas, las organizaciones necesitan defensas en capas para ayudar a prevenir, detectar y responder a los ciberataques antes de que causen estragos.</span></p>
+<h3 style="text-align: justify;"><em><span style="font-family: helvetica, arial, sans-serif;">¿Quién lanza un ataque?</span></em></h3>
+<p><span style="font-family: helvetica, arial, sans-serif;">Los atacantes externos varían mucho. Los grupos de delincuentes cibernéticos organizados pueden buscar obtener beneficios mediante campañas de ransomware o vendiendo datos robados en la dark web. Algunos son hackers profesionales que se especializan en obtener acceso a sistemas comprometidos. </span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;">A nivel de estado-nación, los actores patrocinados por el estado llevan a cabo campañas a largo plazo de guerra cibernética y espionaje contra gobiernos y corporaciones rivales. Y luego están los hacktivistas, que irrumpen en los sistemas para llamar la atención sobre una causa política o social en lugar de obtener un beneficio financiero directo.</span><span style="font-family: helvetica, arial, sans-serif;"></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><img src="{{context_path}}/content/resources/bigstock-Login-Into-Account-In-Email-En-239697814.jpeg" width="767" height="483" alt="" /></span></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"E25FA23E61724937A1D4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>Añade un segundo paso al inicio de sesión: además de la contraseña, el servicio pide un código único. Puede llegar por SMS, generarse en una aplicación, recibirse por llamada o usarse mediante una llave de seguridad física. Si alguien consigue tu contraseña (por ejemplo, con phishing), no puede entrar sin ese segundo elemento.</p>\n<ul>\n<li>No dependas solo de ella: mantén también una contraseña robusta.</li>\n<li>Configura los métodos de recuperación antes de necesitarlos, porque perder el dispositivo que recibe los códigos es el principal inconveniente.</li>\n<li>Protege tu equipo: un malware podría eludir la verificación.</li>\n<li>Nunca compartas los códigos que recibes, aunque quien te los pida diga ser del banco.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792689363677-8v18amh8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Un ciberataque es cualquier esfuerzo intencional para robar, exponer alterar, deshabilitar o destruir datos, aplicaciones u otros activos a través del acceso no autorizado a una red informática, sistema informático o dispositivo digital.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los atacantes explotarán todo tipo de vulnerabilidad, desde aplicaciones web sin parches hasta servicios en la nube mal configurados, para comprometer un sistema objetivo e interrumpir su funcionalidad. Para mitigar estas amenazas, las organizaciones necesitan defensas en capas para ayudar a prevenir, detectar y responder a los ciberataques antes de que causen estragos.</span></p>\n<h3 style=\"text-align: justify;\"><em><span style=\"font-family: helvetica, arial, sans-serif;\">¿Quién lanza un ataque?</span></em></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Los atacantes externos varían mucho. Los grupos de delincuentes cibernéticos organizados pueden buscar obtener beneficios mediante campañas de ransomware o vendiendo datos robados en la dark web. Algunos son hackers profesionales que se especializan en obtener acceso a sistemas comprometidos. </span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">A nivel de estado-nación, los actores patrocinados por el estado llevan a cabo campañas a largo plazo de guerra cibernética y espionaje contra gobiernos y corporaciones rivales. Y luego están los hacktivistas, que irrumpen en los sistemas para llamar la atención sobre una causa política o social en lugar de obtener un beneficio financiero directo.</span><span style=\"font-family: helvetica, arial, sans-serif;\"></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><img src=\"{{context_path}}/content/resources/bigstock-Login-Into-Account-In-Email-En-239697814.jpeg\" width=\"767\" height=\"483\" alt=\"\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>95F4710CEEFB4D938240</odePageId>
-      <odeBlockId>82CD2444433545829AA7</odeBlockId>
-      <blockName>3. Equipos y aplicaciones actualizados y protegidos</blockName>
+      <odePageId>page-mvj1wdok-emo0sahao</odePageId>
+      <odeBlockId>block-mvjwrzgn-vosg3sc7z</odeBlockId>
+      <blockName>ATAQUES AVANZADOS</blockName>
       <iconName></iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1261,232 +822,25 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>95F4710CEEFB4D938240</odePageId>
-          <odeBlockId>82CD2444433545829AA7</odeBlockId>
-          <odeIdeviceId>FB324256473C4BD5985F</odeIdeviceId>
+          <odePageId>page-mvj1wdok-emo0sahao</odePageId>
+          <odeBlockId>block-mvjwrzgn-vosg3sc7z</odeBlockId>
+          <odeIdeviceId>idevice-mvjwrzgn-s3l4wvwdv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
-<li>Mantener actualizados los dispositivos y las aplicaciones.</li>
-<li>Usar software de seguridad y mantener actualizado el navegador.</li>
-<li>Evitar aplicaciones maliciosas y software o descargas ilegales; como práctica general, instalar aplicaciones solo desde tiendas oficiales.</li>
-<li>Activar el bloqueo de ventanas emergentes y no seguir publicidad engañosa.</li>
-</ul>
+    <p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Los adversarios más pacientes llevan a cabo campañas a través de la habilidad, el sigilo y la persistencia. Estas tácticas a menudo combinan múltiples vectores de ataque, desde operadores humanos encubiertos hasta ejércitos de bots automatizados, y pueden desarrollarse durante meses, lo que hace que la detección temprana sea esencial.</span></p>
+<h3 style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><em>Ataque a la cadena de suministro</em></span></h3>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Los atacantes violan una empresa dirigiéndose a sus proveedores de software, proveedores de materiales u otros proveedores de servicios. Debido a que los proveedores están frecuentemente conectados a las redes de sus clientes, un solo compromiso puede proporcionar a un atacante una ruta indirecta hacia muchas organizaciones.</span></p>
+<h3 style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><em>Scripts en sitios cruzados (XSS)</em></span></h3>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Los ataques XSS insertan código malicioso en una página web o aplicación web legítima. Cuando un usuario visita el sitio o la aplicación, el código se ejecuta automáticamente en el navegador del usuario, robando información confidencial o redirigiendo al visitante a un sitio web malicioso. Los atacantes utilizan con frecuencia JavaScript para lanzar estos exploits.</span></p>
+<h3 style="text-align: justify;"><em><span style="font-family: helvetica, arial, sans-serif;">Inyección SQL</span></em></h3>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Los ataques de inyección SQL envían comandos maliciosos del lenguaje de consultas estructurado (SQL) a la base de datos backend de un sitio web o aplicación. Los atacantes ingresan los comandos a través de campos orientados al usuario, como barras de búsqueda y ventanas de inicio de sesión, lo que solicita a la base de datos que devuelva datos privados, como números de tarjetas de crédito u otros datos de clientes.</span></p>
+<h3 style="text-align: justify;"><em><span style="font-family: helvetica, arial, sans-serif;">Ataques impulsados por IA</span></em></h3>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">La inteligencia artificial (IA), en particular la IA generativa, está abriendo un nuevo frente para los adversarios. Los hackers pueden utilizar modelos de lenguaje grandes (LLM) para crear ataques de phishing hiperrealistas, así como audio y video falsos e incluso automatizar el reconocimiento a una escala sin precedentes. Las técnicas más sofisticadas, como la inyección de instrucciones o los jailbreaks de IA, pueden engañar a los sistemas de IA para que revelen datos confidenciales anulando los controles de seguridad y las barreras de seguridad incorporados.</span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><img src="{{context_path}}/content/resources/images (10).jpg" width="668" height="459" alt="" /></span></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"FB324256473C4BD5985F","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<ul>\n<li>Mantener actualizados los dispositivos y las aplicaciones.</li>\n<li>Usar software de seguridad y mantener actualizado el navegador.</li>\n<li>Evitar aplicaciones maliciosas y software o descargas ilegales; como práctica general, instalar aplicaciones solo desde tiendas oficiales.</li>\n<li>Activar el bloqueo de ventanas emergentes y no seguir publicidad engañosa.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mvjwrzgn-s3l4wvwdv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los adversarios más pacientes llevan a cabo campañas a través de la habilidad, el sigilo y la persistencia. Estas tácticas a menudo combinan múltiples vectores de ataque, desde operadores humanos encubiertos hasta ejércitos de bots automatizados, y pueden desarrollarse durante meses, lo que hace que la detección temprana sea esencial.</span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><em>Ataque a la cadena de suministro</em></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los atacantes violan una empresa dirigiéndose a sus proveedores de software, proveedores de materiales u otros proveedores de servicios. Debido a que los proveedores están frecuentemente conectados a las redes de sus clientes, un solo compromiso puede proporcionar a un atacante una ruta indirecta hacia muchas organizaciones.</span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><em>Scripts en sitios cruzados (XSS)</em></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los ataques XSS insertan código malicioso en una página web o aplicación web legítima. Cuando un usuario visita el sitio o la aplicación, el código se ejecuta automáticamente en el navegador del usuario, robando información confidencial o redirigiendo al visitante a un sitio web malicioso. Los atacantes utilizan con frecuencia JavaScript para lanzar estos exploits.</span></p>\n<h3 style=\"text-align: justify;\"><em><span style=\"font-family: helvetica, arial, sans-serif;\">Inyección SQL</span></em></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los ataques de inyección SQL envían comandos maliciosos del lenguaje de consultas estructurado (SQL) a la base de datos backend de un sitio web o aplicación. Los atacantes ingresan los comandos a través de campos orientados al usuario, como barras de búsqueda y ventanas de inicio de sesión, lo que solicita a la base de datos que devuelva datos privados, como números de tarjetas de crédito u otros datos de clientes.</span></p>\n<h3 style=\"text-align: justify;\"><em><span style=\"font-family: helvetica, arial, sans-serif;\">Ataques impulsados por IA</span></em></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">La inteligencia artificial (IA), en particular la IA generativa, está abriendo un nuevo frente para los adversarios. Los hackers pueden utilizar modelos de lenguaje grandes (LLM) para crear ataques de phishing hiperrealistas, así como audio y video falsos e incluso automatizar el reconocimiento a una escala sin precedentes. Las técnicas más sofisticadas, como la inyección de instrucciones o los jailbreaks de IA, pueden engañar a los sistemas de IA para que revelen datos confidenciales anulando los controles de seguridad y las barreras de seguridad incorporados.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><img src=\"{{context_path}}/content/resources/images (10).jpg\" width=\"668\" height=\"459\" alt=\"\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>95F4710CEEFB4D938240</odePageId>
-      <odeBlockId>8C6741C9D772416AA690</odeBlockId>
-      <blockName>4. Copias de seguridad</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>95F4710CEEFB4D938240</odePageId>
-          <odeBlockId>8C6741C9D772416AA690</odeBlockId>
-          <odeIdeviceId>97EE771B23554B8C9BBD</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Respaldar la información importante protege su disponibilidad frente a fallas, robo del equipo o ransomware. Es recomendable probar de vez en cuando que las copias se puedan restaurar. Si guardas respaldos de mensajería en la nube, activa su cifrado cuando el servicio lo permita.</p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"97EE771B23554B8C9BBD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>Respaldar la información importante protege su disponibilidad frente a fallas, robo del equipo o ransomware. Es recomendable probar de vez en cuando que las copias se puedan restaurar. Si guardas respaldos de mensajería en la nube, activa su cifrado cuando el servicio lo permita.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>95F4710CEEFB4D938240</odePageId>
-      <odeBlockId>733F649ABE6F4F1091F3</odeBlockId>
-      <blockName>5. Privacidad en redes sociales y mensajería</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>4</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>95F4710CEEFB4D938240</odePageId>
-          <odeBlockId>733F649ABE6F4F1091F3</odeBlockId>
-          <odeIdeviceId>DDA809AB5E2C4259AD92</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<ul><li>Revisa y ajusta la configuración de privacidad de cada plataforma.</li><li>Piensa antes de publicar: lo que se sube a Internet es difícil de retirar por completo.</li><li>No aceptes solicitudes de perfiles desconocidos ni compartas datos sensibles.</li><li>Pide permiso antes de etiquetar o publicar fotos de otras personas.</li></ul>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"DDA809AB5E2C4259AD92","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<ul><li>Revisa y ajusta la configuración de privacidad de cada plataforma.</li><li>Piensa antes de publicar: lo que se sube a Internet es difícil de retirar por completo.</li><li>No aceptes solicitudes de perfiles desconocidos ni compartas datos sensibles.</li><li>Pide permiso antes de etiquetar o publicar fotos de otras personas.</li></ul>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>95F4710CEEFB4D938240</odePageId>
-      <odeBlockId>BC5710E7C49B4D0DBC31</odeBlockId>
-      <blockName>6. Enlaces, códigos QR y compras</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>5</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>95F4710CEEFB4D938240</odePageId>
-          <odeBlockId>BC5710E7C49B4D0DBC31</odeBlockId>
-          <odeIdeviceId>EC125A861B8A4BD1B928</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p>La Policía Cibernética de la CDMX recomienda, ante los códigos QR:</p>
-<ul>
-<li>Verificar el origen del código antes de escanearlo.</li>
-<li>No escanear códigos que lleguen por mensajes o correos no solicitados.</li>
-<li>Revisar que la dirección a la que redirige sea legítima.</li>
-<li>No ingresar datos personales o financieros en sitios sospechosos y cerrar de inmediato los que parezcan fraudulentos.</li>
-</ul>
-<p>Y, para compras en línea, las recomendaciones del tema de fraudes: sitios confiables, precios realistas, pagos seguros y revisión periódica de los movimientos bancarios.</p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"EC125A861B8A4BD1B928","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>La Policía Cibernética de la CDMX recomienda, ante los códigos QR:</p>\n<ul>\n<li>Verificar el origen del código antes de escanearlo.</li>\n<li>No escanear códigos que lleguen por mensajes o correos no solicitados.</li>\n<li>Revisar que la dirección a la que redirige sea legítima.</li>\n<li>No ingresar datos personales o financieros en sitios sospechosos y cerrar de inmediato los que parezcan fraudulentos.</li>\n</ul>\n<p>Y, para compras en línea, las recomendaciones del tema de fraudes: sitios confiables, precios realistas, pagos seguros y revisión periódica de los movimientos bancarios.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-        <odeComponent>
-          <odePageId>95F4710CEEFB4D938240</odePageId>
-          <odeBlockId>BC5710E7C49B4D0DBC31</odeBlockId>
-          <odeIdeviceId>idevice-1792609851415-pe2yisgtd</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/MXf-YGQr6jI?si=dt05M6hnueDVK50j" allowfullscreen="allowfullscreen"></iframe></p>
-<p><br /></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792609851415-pe2yisgtd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/MXf-YGQr6jI?si=dt05M6hnueDVK50j\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>1</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1494,107 +848,21 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>EC998DDFBD21465796C3</odePageId>
+  <odePageId>page-mvjysfwd-lp8whs51d</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
-  <pageName>MARCO LEGAL EN MÉXICO</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <pageName>MALWARE</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>MARCO LEGAL EN MÉXICO</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>MARCO LEGAL EN MÉXICO</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>MARCO LEGAL EN MÉXICO</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>description</key>
-      <value></value>
+      <value>MALWARE</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>EC998DDFBD21465796C3</odePageId>
-      <odeBlockId>5DF6357E5163459CB59D</odeBlockId>
-      <blockName>La ley vigente</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>EC998DDFBD21465796C3</odePageId>
-          <odeBlockId>5DF6357E5163459CB59D</odeBlockId>
-          <odeIdeviceId>FFFB3589EBF84E15B807</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>En México, el tratamiento de datos personales por parte de empresas y personas particulares se regula con la <strong>Ley Federal de Protección de Datos Personales en Posesión de los Particulares</strong>. La versión vigente se publicó en el Diario Oficial de la Federación el 20 de marzo de 2025 y su última reforma, según la Cámara de Diputados, es del 14 de noviembre de 2025 (Cámara de Diputados del H. Congreso de la Unión, 2025).</p><p>Basham (2025) explica que esta ley entró en vigor el 21 de marzo de 2025 y abrogó la anterior, y que las funciones que tenía el INAI pasaron a la Secretaría Anticorrupción y Buen Gobierno. El propio texto de la ley señala a esa Secretaría como la autoridad que vigila su cumplimiento (Cámara de Diputados del H. Congreso de la Unión, 2025).</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"FFFB3589EBF84E15B807","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>En México, el tratamiento de datos personales por parte de empresas y personas particulares se regula con la <strong>Ley Federal de Protección de Datos Personales en Posesión de los Particulares</strong>. La versión vigente se publicó en el Diario Oficial de la Federación el 20 de marzo de 2025 y su última reforma, según la Cámara de Diputados, es del 14 de noviembre de 2025 (Cámara de Diputados del H. Congreso de la Unión, 2025).</p><p>Basham (2025) explica que esta ley entró en vigor el 21 de marzo de 2025 y abrogó la anterior, y que las funciones que tenía el INAI pasaron a la Secretaría Anticorrupción y Buen Gobierno. El propio texto de la ley señala a esa Secretaría como la autoridad que vigila su cumplimiento (Cámara de Diputados del H. Congreso de la Unión, 2025).</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>EC998DDFBD21465796C3</odePageId>
-      <odeBlockId>20A6D2E14165407FA3F5</odeBlockId>
-      <blockName>Principios de protección de datos</blockName>
+      <odePageId>page-mvjysfwd-lp8whs51d</odePageId>
+      <odeBlockId>block-mvjyvcre-i0599i089</odeBlockId>
+      <blockName>¿QUÉ ES?</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1621,178 +889,25 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>EC998DDFBD21465796C3</odePageId>
-          <odeBlockId>20A6D2E14165407FA3F5</odeBlockId>
-          <odeIdeviceId>2A9B13C8FA044D12B284</odeIdeviceId>
+          <odePageId>page-mvjysfwd-lp8whs51d</odePageId>
+          <odeBlockId>block-mvjyvcre-i0599i089</odeBlockId>
+          <odeIdeviceId>idevice-1792699289689-i2q888v3u</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Quien trata datos personales (el "responsable") debe observar ocho principios (Cámara de Diputados del H. Congreso de la Unión, 2025, art. 5 y siguientes):</p>
-<table border="1" cellpadding="6" style="border-collapse: collapse; width: 100%;">
-<thead>
-<tr>
-<th>Principio</th>
-<th>En pocas palabras</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Licitud</td>
-<td>Recabar y tratar los datos conforme a la ley, sin medios engañosos o fraudulentos.</td>
-</tr>
-<tr>
-<td>Lealtad</td>
-<td>Proteger los intereses de la persona titular y su expectativa razonable de privacidad.</td>
-</tr>
-<tr>
-<td>Consentimiento</td>
-<td>Todo tratamiento lo requiere, salvo excepciones; para datos sensibles se exige consentimiento expreso y por escrito.</td>
-</tr>
-<tr>
-<td>Finalidad</td>
-<td>Usar los datos solo para las finalidades del aviso de privacidad; otra finalidad requiere nuevo consentimiento.</td>
-</tr>
-<tr>
-<td>Proporcionalidad</td>
-<td>Tratar solo los datos necesarios, adecuados y relevantes para esas finalidades.</td>
-</tr>
-<tr>
-<td>Calidad</td>
-<td>Mantener los datos exactos, completos, correctos y actualizados.</td>
-</tr>
-<tr>
-<td>Información</td>
-<td>Dar a conocer a la persona titular el tratamiento mediante el aviso de privacidad.</td>
-</tr>
-<tr>
-<td>Responsabilidad</td>
-<td>Adoptar las medidas necesarias para cumplir los principios.</td>
-</tr>
-</tbody>
-</table>
+    <p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">El software malicioso, o malware, es cualquier código de software o programa informático, incluidos ransomware, troyanos y spyware, escrito intencionalmente para dañar los sistemas informáticos o a sus usuarios.</span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Casi todos los ataques cibernéticos modernos implican algún tipo de malware. Estos programas maliciosos pueden tomar muchas formas, que van desde un ransomware altamente dañino y costoso hasta un adware meramente molesto, dependiendo de lo que pretendan hacer los delincuentes cibernéticos.</span></p>
+<h3 style="text-align: justify;"><em><span style="font-family: helvetica, arial, sans-serif;">Virus de computadoras</span></em></h3>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Los virus no pueden actuar por sí solos. En cambio, ocultan fragmentos de su código en otros programas ejecutables. Cuando un usuario inicia el programa, el virus también comienza a ejecutarse. Los virus generalmente están diseñados para eliminar datos importantes, interrumpir las operaciones normales y propagar copias de sí mismos a otros programas en la computadora infectada.</span></p>
+<h3 style="text-align: justify;"><em><span style="font-family: helvetica, arial, sans-serif;">Ransomware</span></em></h3>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Los ataques de ransomware más básicos hacen que los activos sean inutilizables hasta que se pague el rescate, pero los delincuentes cibernéticos pueden usar tácticas adicionales para aumentar la presión sobre las víctimas.</span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">En un doble ataque de extorsión, los delincuentes cibernéticos roban datos y amenazan con filtrarlos si no se les paga. En un ataque de triple extorsión, los hackers cifran los datos de la víctima, los roban y amenazan con desconectar los sistemas a través de un ataque de denegación distribuida del servicio (DDoS).</span></p>
+<h3 style="text-align: justify;"><em><span style="font-family: helvetica, arial, sans-serif;">Botnets</span></em></h3>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;">Una botnet es una red de dispositivos conectados a Internet e infectados con malware bajo el control de un hacker. Las botnets pueden incluir PC, dispositivos móviles, dispositivos de Internet de las Cosas (IoT), etc. Las víctimas a menudo no se dan cuenta cuando sus dispositivos forman parte de una botnet. Los hackers suelen utilizar botnets para lanzar ataques DDoS, que bombardean una red objetivo con tanto tráfico que se ralentiza o se apaga por completo.</span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><img src="{{context_path}}/content/resources/malware-ciberataques-900x600.jpg" width="900" height="600" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"2A9B13C8FA044D12B284","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>Quien trata datos personales (el \"responsable\") debe observar ocho principios (Cámara de Diputados del H. Congreso de la Unión, 2025, art. 5 y siguientes):</p>\n<table border=\"1\" cellpadding=\"6\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr>\n<th>Principio</th>\n<th>En pocas palabras</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Licitud</td>\n<td>Recabar y tratar los datos conforme a la ley, sin medios engañosos o fraudulentos.</td>\n</tr>\n<tr>\n<td>Lealtad</td>\n<td>Proteger los intereses de la persona titular y su expectativa razonable de privacidad.</td>\n</tr>\n<tr>\n<td>Consentimiento</td>\n<td>Todo tratamiento lo requiere, salvo excepciones; para datos sensibles se exige consentimiento expreso y por escrito.</td>\n</tr>\n<tr>\n<td>Finalidad</td>\n<td>Usar los datos solo para las finalidades del aviso de privacidad; otra finalidad requiere nuevo consentimiento.</td>\n</tr>\n<tr>\n<td>Proporcionalidad</td>\n<td>Tratar solo los datos necesarios, adecuados y relevantes para esas finalidades.</td>\n</tr>\n<tr>\n<td>Calidad</td>\n<td>Mantener los datos exactos, completos, correctos y actualizados.</td>\n</tr>\n<tr>\n<td>Información</td>\n<td>Dar a conocer a la persona titular el tratamiento mediante el aviso de privacidad.</td>\n</tr>\n<tr>\n<td>Responsabilidad</td>\n<td>Adoptar las medidas necesarias para cumplir los principios.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792699289689-i2q888v3u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">El software malicioso, o malware, es cualquier código de software o programa informático, incluidos ransomware, troyanos y spyware, escrito intencionalmente para dañar los sistemas informáticos o a sus usuarios.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Casi todos los ataques cibernéticos modernos implican algún tipo de malware. Estos programas maliciosos pueden tomar muchas formas, que van desde un ransomware altamente dañino y costoso hasta un adware meramente molesto, dependiendo de lo que pretendan hacer los delincuentes cibernéticos.</span></p>\n<h3 style=\"text-align: justify;\"><em><span style=\"font-family: helvetica, arial, sans-serif;\">Virus de computadoras</span></em></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los virus no pueden actuar por sí solos. En cambio, ocultan fragmentos de su código en otros programas ejecutables. Cuando un usuario inicia el programa, el virus también comienza a ejecutarse. Los virus generalmente están diseñados para eliminar datos importantes, interrumpir las operaciones normales y propagar copias de sí mismos a otros programas en la computadora infectada.</span></p>\n<h3 style=\"text-align: justify;\"><em><span style=\"font-family: helvetica, arial, sans-serif;\">Ransomware</span></em></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los ataques de ransomware más básicos hacen que los activos sean inutilizables hasta que se pague el rescate, pero los delincuentes cibernéticos pueden usar tácticas adicionales para aumentar la presión sobre las víctimas.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">En un doble ataque de extorsión, los delincuentes cibernéticos roban datos y amenazan con filtrarlos si no se les paga. En un ataque de triple extorsión, los hackers cifran los datos de la víctima, los roban y amenazan con desconectar los sistemas a través de un ataque de denegación distribuida del servicio (DDoS).</span></p>\n<h3 style=\"text-align: justify;\"><em><span style=\"font-family: helvetica, arial, sans-serif;\">Botnets</span></em></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Una botnet es una red de dispositivos conectados a Internet e infectados con malware bajo el control de un hacker. Las botnets pueden incluir PC, dispositivos móviles, dispositivos de Internet de las Cosas (IoT), etc. Las víctimas a menudo no se dan cuenta cuando sus dispositivos forman parte de una botnet. Los hackers suelen utilizar botnets para lanzar ataques DDoS, que bombardean una red objetivo con tanto tráfico que se ralentiza o se apaga por completo.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\"><img src=\"{{context_path}}/content/resources/malware-ciberataques-900x600.jpg\" width=\"900\" height=\"600\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>EC998DDFBD21465796C3</odePageId>
-      <odeBlockId>773C0F197D9A44B9B02E</odeBlockId>
-      <blockName>Derechos ARCO</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>EC998DDFBD21465796C3</odePageId>
-          <odeBlockId>773C0F197D9A44B9B02E</odeBlockId>
-          <odeIdeviceId>3972FA09D1E84548A1A1</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Las personas titulares de los datos tienen los llamados <strong>derechos ARCO</strong> (Cámara de Diputados del H. Congreso de la Unión, 2025):</p><ul><li><strong>Acceso:</strong> conocer qué datos tiene el responsable y cómo los trata.</li><li><strong>Rectificación:</strong> corregir datos inexactos o incompletos.</li><li><strong>Cancelación:</strong> pedir que se eliminen los datos de los archivos, registros, expedientes y sistemas del responsable.</li><li><strong>Oposición:</strong> oponerse al tratamiento; según Basham (2025), aplica también frente al tratamiento automatizado que afecte de manera significativa a la persona y evalúe aspectos personales sin intervención humana.</li></ul>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"3972FA09D1E84548A1A1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>Las personas titulares de los datos tienen los llamados <strong>derechos ARCO</strong> (Cámara de Diputados del H. Congreso de la Unión, 2025):</p><ul><li><strong>Acceso:</strong> conocer qué datos tiene el responsable y cómo los trata.</li><li><strong>Rectificación:</strong> corregir datos inexactos o incompletos.</li><li><strong>Cancelación:</strong> pedir que se eliminen los datos de los archivos, registros, expedientes y sistemas del responsable.</li><li><strong>Oposición:</strong> oponerse al tratamiento; según Basham (2025), aplica también frente al tratamiento automatizado que afecte de manera significativa a la persona y evalúe aspectos personales sin intervención humana.</li></ul>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>EC998DDFBD21465796C3</odePageId>
-      <odeBlockId>A726F3958DC242999A79</odeBlockId>
-      <blockName>Aviso de privacidad y consentimiento</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>EC998DDFBD21465796C3</odePageId>
-          <odeBlockId>A726F3958DC242999A79</odeBlockId>
-          <odeIdeviceId>A0204A81AC844434A12C</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>El aviso de privacidad es el documento con el que el responsable informa qué datos trata y para qué. Debe indicar qué datos personales serán tratados y diferenciar entre finalidades necesarias y voluntarias; además, el consentimiento debe ser libre, específico e informado, y cualquier nueva finalidad requiere el consentimiento de la persona titular (Basham, 2025).</p><p><strong>Aplicado a la comunicación digital:</strong> antes de dar tus datos a una aplicación, tienda en línea o servicio de mensajería, lee su aviso de privacidad, revisa qué datos pide y para qué, y usa tus derechos ARCO si no estás de acuerdo.</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"A0204A81AC844434A12C","textInfoDurationInput":"","textInfoDurationTextInput":"Duración:","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento:","textTextarea":"<p>El aviso de privacidad es el documento con el que el responsable informa qué datos trata y para qué. Debe indicar qué datos personales serán tratados y diferenciar entre finalidades necesarias y voluntarias; además, el consentimiento debe ser libre, específico e informado, y cualquier nueva finalidad requiere el consentimiento de la persona titular (Basham, 2025).</p><p><strong>Aplicado a la comunicación digital:</strong> antes de dar tus datos a una aplicación, tienda en línea o servicio de mensajería, lee su aviso de privacidad, revisa qué datos pide y para qué, y usa tus derechos ARCO si no estás de acuerdo.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1803,7 +918,7 @@
   <odePageId>CE6C6875C9C54F9C9C1F</odePageId>
   <odeParentPageId>page-mvidqrul-6q7x6q0i9</odeParentPageId>
   <pageName>QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2035,13 +1150,10 @@
           <odeIdeviceId>idevice-1792610365399-yevzvgn5q</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Biblioteca de la Universidad de Alicante. (s. f.). Riesgos en el entorno digital. En Normas, riesgos y buenas prácticas digitales. <a href="https://moodle2025-26.ua.es/moodle/pluginfile.php/141968/mod_resource/content/25/riesgos_en_el_entorno_digital.html">https://moodle2025-26.ua.es/moodle/pluginfile.php/141968/mod_resource/content/25/riesgos_en_el_entorno_digital.html</a></p>
-<p>Guallo Cuzco, F. (s. f.). Riesgos de la comunicación digital [Documento]. Scribd. <a href="https://es.scribd.com/document/867606144/Riesgos-y-Desafios">https://es.scribd.com/document/867606144/Riesgos-y-Desafios</a></p>
-<p>Méndez Colmenares, D. (s. f.). Comunicación digital: Qué es, tipos y características. CEUPE. <a href="https://www.ceupe.com/blog/comunicacion-digital.html">https://www.ceupe.com/blog/comunicacion-digital.html</a></p>
-<p>Reyna, M. (2025, 25 de marzo). Privacidad, seguridad y protección de datos: Una prioridad para empresas en la era digital. PPSTech México. <a href="https://ppstech.mx/blog/privacidad-y-proteccion-de-datos/">https://ppstech.mx/blog/privacidad-y-proteccion-de-datos/</a></p>
-<p>Tablado, F. (2024, 23 de julio). ¿Qué es la privacidad digital y cómo gestionarla? Grupo Atico34. <a href="https://protecciondatos-lopd.com/empresas/privacidad-digital/">https://protecciondatos-lopd.com/empresas/privacidad-digital/</a></p>
+    <p>IBM. (2022, 14 de abril). ¿Qué es el malware? <a href="https://www.ibm.com/mx-es/think/topics/malware">https://www.ibm.com/mx-es/think/topics/malware</a></p>
+<p></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792610365399-yevzvgn5q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Biblioteca de la Universidad de Alicante. (s. f.). Riesgos en el entorno digital. En Normas, riesgos y buenas prácticas digitales. <a href=\"https://moodle2025-26.ua.es/moodle/pluginfile.php/141968/mod_resource/content/25/riesgos_en_el_entorno_digital.html\">https://moodle2025-26.ua.es/moodle/pluginfile.php/141968/mod_resource/content/25/riesgos_en_el_entorno_digital.html</a></p>\n<p>Guallo Cuzco, F. (s. f.). Riesgos de la comunicación digital [Documento]. Scribd. <a href=\"https://es.scribd.com/document/867606144/Riesgos-y-Desafios\">https://es.scribd.com/document/867606144/Riesgos-y-Desafios</a></p>\n<p>Méndez Colmenares, D. (s. f.). Comunicación digital: Qué es, tipos y características. CEUPE. <a href=\"https://www.ceupe.com/blog/comunicacion-digital.html\">https://www.ceupe.com/blog/comunicacion-digital.html</a></p>\n<p>Reyna, M. (2025, 25 de marzo). Privacidad, seguridad y protección de datos: Una prioridad para empresas en la era digital. PPSTech México. <a href=\"https://ppstech.mx/blog/privacidad-y-proteccion-de-datos/\">https://ppstech.mx/blog/privacidad-y-proteccion-de-datos/</a></p>\n<p>Tablado, F. (2024, 23 de julio). ¿Qué es la privacidad digital y cómo gestionarla? Grupo Atico34. <a href=\"https://protecciondatos-lopd.com/empresas/privacidad-digital/\">https://protecciondatos-lopd.com/empresas/privacidad-digital/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792610365399-yevzvgn5q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>IBM. (2022, 14 de abril). ¿Qué es el malware? <a href=\"https://www.ibm.com/mx-es/think/topics/malware\">https://www.ibm.com/mx-es/think/topics/malware</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
