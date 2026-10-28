@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1793155266657</value>
+    <value>1793159838161</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -508,15 +508,17 @@
           <odeIdeviceId>idevice-1792609929660-uyepnllrh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><span style="font-family: helvetica, arial, sans-serif;">El temario va de lo básico a lo específico. Empezamos afianzando los conceptos con los principios de seguridad (confidencialidad, integridad y disponibilidad), luego checamos la comunicación digital y sus peligros, seguimos con las buenas prácticas de privacidad y terminamos con las leyes en México y la guía de qué hacer si te toca ser víctima de un fraude. </span></p>
+    <p>Un recorrido de lo básico a lo específico: aprenderás cómo funcionan la comunicación digital y sus riesgos, qué son los ataques cibernéticos y el malware, qué se esconde en la Dark Web, cómo proteger tus datos y qué hacer si eres víctima de un fraude.</p>
 <ol>
 <li style="text-align: left;"><span style="font-family: helvetica, arial, sans-serif;"><em><strong>COMUNICACIÓN DIGITAL Y SUS RIESGOS</strong></em><br style="clear: both;" /></span><span style="font-family: helvetica, arial, sans-serif;"></span><span style="font-family: helvetica, arial, sans-serif;"></span><span style="color: #3598db;"><span style="font-family: helvetica, arial, sans-serif;">¿QUÉ ES? <br style="clear: both;" /></span><span style="font-family: helvetica, arial, sans-serif;">RIESGOS</span></span></li>
 <li><span style="font-family: helvetica, arial, sans-serif;"><em><strong>ATAQUES CIBERNÉTICOS</strong></em><br style="clear: both;" /><span style="color: #3598db;">¿QUÉ ES? </span><br style="clear: both;" /><span style="color: #3598db;">ATAQUES AVANZADOS</span></span></li>
 <li><span style="font-family: helvetica, arial, sans-serif;"><em><strong>MALWARE</strong></em><br style="clear: both;" /><span style="color: #3598db;">¿QUÉ ES? </span><br style="clear: both;" /><span style="color: #3598db;">VECTORES DE ATAQUE DE MALWARE </span><br style="clear: both;" /><span style="color: #3598db;">DETECCIÓN DE MALWARE</span></span></li>
-<li><em><strong><span style="font-family: helvetica, arial, sans-serif;">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</span></strong></em></li>
+<li><span style="font-family: helvetica, arial, sans-serif; color: #000000;"><strong>DARK WEB </strong><br style="clear: both;" /><span style="color: #3598db;">¿QUÉ ES?</span></span></li>
+<li><span style="font-family: helvetica, arial, sans-serif; color: #000000;"><strong>SEGURIDAD DE LOS DATOS</strong> <br style="clear: both;" /><span style="color: #3598db;">¿QUÉ ES? </span><br style="clear: both;" /><span style="color: #3598db;">TIPOS DE SEGURIDAD DE DATOS</span></span></li>
+<li><em><strong><span style="font-family: helvetica, arial, sans-serif;">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE <br style="clear: both;" /></span></strong></em><span style="color: #3598db;"><span style="font-family: helvetica, arial, sans-serif;">PRIMEROS PASOS </span><span style="font-family: helvetica, arial, sans-serif;"><br style="clear: both;" />PREVENCIÓN A LARGO PLAZO</span></span></li>
 </ol>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792609929660-uyepnllrh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: helvetica, arial, sans-serif;\">El temario va de lo básico a lo específico. Empezamos afianzando los conceptos con los principios de seguridad (confidencialidad, integridad y disponibilidad), luego checamos la comunicación digital y sus peligros, seguimos con las buenas prácticas de privacidad y terminamos con las leyes en México y la guía de qué hacer si te toca ser víctima de un fraude. </span></p>\n<ol>\n<li style=\"text-align: left;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><em><strong>COMUNICACIÓN DIGITAL Y SUS RIESGOS</strong></em><br style=\"clear: both;\" /></span><span style=\"font-family: helvetica, arial, sans-serif;\"></span><span style=\"font-family: helvetica, arial, sans-serif;\"></span><span style=\"color: #3598db;\"><span style=\"font-family: helvetica, arial, sans-serif;\">¿QUÉ ES? <br style=\"clear: both;\" /></span><span style=\"font-family: helvetica, arial, sans-serif;\">RIESGOS</span></span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\"><em><strong>ATAQUES CIBERNÉTICOS</strong></em><br style=\"clear: both;\" /><span style=\"color: #3598db;\">¿QUÉ ES? </span><br style=\"clear: both;\" /><span style=\"color: #3598db;\">ATAQUES AVANZADOS</span></span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\"><em><strong>MALWARE</strong></em><br style=\"clear: both;\" /><span style=\"color: #3598db;\">¿QUÉ ES? </span><br style=\"clear: both;\" /><span style=\"color: #3598db;\">VECTORES DE ATAQUE DE MALWARE </span><br style=\"clear: both;\" /><span style=\"color: #3598db;\">DETECCIÓN DE MALWARE</span></span></li>\n<li><em><strong><span style=\"font-family: helvetica, arial, sans-serif;\">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE</span></strong></em></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792609929660-uyepnllrh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un recorrido de lo básico a lo específico: aprenderás cómo funcionan la comunicación digital y sus riesgos, qué son los ataques cibernéticos y el malware, qué se esconde en la Dark Web, cómo proteger tus datos y qué hacer si eres víctima de un fraude.</p>\n<ol>\n<li style=\"text-align: left;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><em><strong>COMUNICACIÓN DIGITAL Y SUS RIESGOS</strong></em><br style=\"clear: both;\" /></span><span style=\"font-family: helvetica, arial, sans-serif;\"></span><span style=\"font-family: helvetica, arial, sans-serif;\"></span><span style=\"color: #3598db;\"><span style=\"font-family: helvetica, arial, sans-serif;\">¿QUÉ ES? <br style=\"clear: both;\" /></span><span style=\"font-family: helvetica, arial, sans-serif;\">RIESGOS</span></span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\"><em><strong>ATAQUES CIBERNÉTICOS</strong></em><br style=\"clear: both;\" /><span style=\"color: #3598db;\">¿QUÉ ES? </span><br style=\"clear: both;\" /><span style=\"color: #3598db;\">ATAQUES AVANZADOS</span></span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif;\"><em><strong>MALWARE</strong></em><br style=\"clear: both;\" /><span style=\"color: #3598db;\">¿QUÉ ES? </span><br style=\"clear: both;\" /><span style=\"color: #3598db;\">VECTORES DE ATAQUE DE MALWARE </span><br style=\"clear: both;\" /><span style=\"color: #3598db;\">DETECCIÓN DE MALWARE</span></span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif; color: #000000;\"><strong>DARK WEB </strong><br style=\"clear: both;\" /><span style=\"color: #3598db;\">¿QUÉ ES?</span></span></li>\n<li><span style=\"font-family: helvetica, arial, sans-serif; color: #000000;\"><strong>SEGURIDAD DE LOS DATOS</strong> <br style=\"clear: both;\" /><span style=\"color: #3598db;\">¿QUÉ ES? </span><br style=\"clear: both;\" /><span style=\"color: #3598db;\">TIPOS DE SEGURIDAD DE DATOS</span></span></li>\n<li><em><strong><span style=\"font-family: helvetica, arial, sans-serif;\">QUÉ HACER SI ERES VICTIMA DE UN FRAUDE <br style=\"clear: both;\" /></span></strong></em><span style=\"color: #3598db;\"><span style=\"font-family: helvetica, arial, sans-serif;\">PRIMEROS PASOS </span><span style=\"font-family: helvetica, arial, sans-serif;\"><br style=\"clear: both;\" />PREVENCIÓN A LARGO PLAZO</span></span></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1246,6 +1248,30 @@
       <key>titlePage</key>
       <value>SEGURIDAD DE LOS DATOS</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD DE LOS DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
@@ -1292,6 +1318,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1793155476221-4owdmxn6b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">La seguridad de los datos es la práctica de proteger la información digital del acceso no autorizado, la corrupción o el robo a lo largo de su ciclo de vida. Abarca entornos físicos y digitales, incluidos sistemas on premises, dispositivos móviles, plataformas en la nube y aplicaciones de terceros.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">El objetivo principal de la seguridad de los datos es defenderse contra la creciente espectro actual de amenazas cibernéticas, como ransomware, malware, amenazas de usuario interno y errores humanos, al tiempo que permite un uso seguro y eficiente de los datos.</span></p>\n<h3 style=\"text-align: justify;\"><em><span style=\"font-family: helvetica, arial, sans-serif;\">¿Por qué es importante la seguridad de los datos?</span></em></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Los datos confidenciales, como la propiedad intelectual y la PII, ahora se distribuyen en una amplia gama de endpoints, aplicaciones, computadoras portátiles y plataformas en la nube. Los entornos informáticos actuales son más complejos que nunca, abarcando nubes públicas, centros de datos empresariales y dispositivos periféricos como sensores de Internet de las cosas (IoT), robots y servidores remotos. Esta dispersión aumenta la superficie de ataque y el riesgo de incidentes de seguridad.</span></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1345,6 +1383,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-mvrj1jo0-wsj3g06xv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Las organizaciones utilizan una amplia gama de medidas de seguridad de datos para proteger la información confidencial a lo largo de su ciclo de vida.</span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Cifrado de datos</span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">El cifrado utiliza algoritmos para convertir datos legibles (texto sin formato) en un formato ilegible (texto cifrado). Protege los datos confidenciales tanto en tránsito como en reposo. Las herramientas de seguridad para el cifrado a menudo incluyen capacidades para la gestión de claves y controles de descifrado para garantizar que solo los usuarios autorizados puedan acceder a la información.</span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Eliminación de datos</span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">La eliminación segura garantiza que los datos se sobrescriban por completo y sean irrecuperables, especialmente cuando se retiran los dispositivos de almacenamiento. Esta técnica es más exhaustiva que el borrado básico de datos y ayuda a evitar el acceso no autorizado después de la eliminación.</span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Enmascaramiento de datos</span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">El enmascaramiento de datos oculta elementos de datos confidenciales, como PII o números de tarjetas de crédito, reemplazándolos con datos ficticios, pero estructuralmente similares. Esto permite a los desarrolladores y evaluadores trabajar con conjuntos de datos similares a los de producción sin violar las regulaciones de privacidad.</span></p>\n<h3 style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Resiliencia de datos</span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Las medidas de resiliencia de los datos respaldan la capacidad de una organización para recuperarse rápidamente de incidentes, ya sean ciberataques, fallas de hardware o desastres naturales. Garantizar la disponibilidad y la redundancia de las copias de seguridad es clave para minimizar el tiempo de inactividad.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\"><img src=\"{{context_path}}/content/resources/seguridad-datos-2.jpg\" width=\"767\" height=\"431\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1598,6 +1648,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
