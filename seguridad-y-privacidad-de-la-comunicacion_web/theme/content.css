@@ -9,13 +9,13 @@
    ========================================================== */
 
 :root {
-  --hk-bg: #030706;
-  --hk-panel: #07110e;
+  --hk-bg: #ffffff;
+  --hk-panel: #ffffff;
   --hk-green: #00ff9c;
   --hk-cyan: #22d3ee;
   --hk-red: #ff3b5c;
   --hk-amber: #ffb703;
-  --hk-ink: #c5d8d0;
+  --hk-ink: #000000;
   --hk-muted: #7fa89a;
   --hk-line: rgba(0, 255, 156, .28);
   --hk-mono: "JetBrains Mono", "Fira Code", "Cascadia Code", "Cascadia Mono", Consolas, "Courier New", monospace;
@@ -176,17 +176,17 @@
 .box {
   position: relative;
   color: var(--hk-ink);
-  color-scheme: dark;
+  color-scheme: light;
   border: 1px solid var(--hk-line);
   border-radius: 6px;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, .55), 0 2px 12px rgba(0, 0, 0, .35);
   /* fondo liso y mate: sin patrones para no cansar la vista */
-  background: #0a1411;
+  background: #ffffff;
   transition: border-color .25s, box-shadow .25s;
 }
 /* texto de lectura en un verde-gris suave (no blanco puro) */
 .box-content :is(p, li, td, th, dd, dt) { color: var(--hk-ink); }
-.box-content :is(h2, h3, h4) { color: #a8f0d4; }
+.box-content :is(h2, h3, h4) { color: #000; }
 .box:hover {
   border-color: rgba(0, 255, 156, .55);
   box-shadow: 0 0 0 1px rgba(0, 0, 0, .55), 0 0 18px rgba(0, 255, 156, .10);
@@ -205,7 +205,7 @@
 .box::after  { right: -1px; bottom: -1px; border-right-width: 2px; border-bottom-width: 2px; border-bottom-right-radius: 6px; }
 
 .box-title {
-  color: var(--hk-green);
+  color: #000;
   font-family: var(--hk-mono);
   font-weight: 700;
   letter-spacing: .5px;
@@ -220,7 +220,7 @@
 /* botón "Ocultar/Mostrar contenido": botón de terminal */
 .exe-web-site :is(.box-toggle, .box-head button) {
   padding: .25rem .85rem;
-  color: var(--hk-green);
+  color: #000;
   font-family: var(--hk-mono);
   font-size: .78rem;
   font-weight: 700;
@@ -254,10 +254,10 @@
 }
 .exe-text p { margin: 0 0 .95rem; }
 .exe-text p:last-child { margin-bottom: 0; }
-.exe-text strong { color: #fff; text-shadow: 0 0 8px rgba(0, 255, 156, .35); }
-.exe-text em { color: #bfeee0; }
+.exe-text strong { color: #000; text-shadow: 0 0 8px rgba(0, 255, 156, .35); }
+.exe-text em { color: #000; }
 .exe-text h2, .exe-text h3, .exe-text h4 {
-  color: var(--hk-green);
+  color: #000;
   font-family: var(--hk-mono);
   text-shadow: 0 0 10px rgba(0, 255, 156, .3);
 }
@@ -265,11 +265,11 @@
 .exe-text h2::before { content: "## "; color: var(--hk-cyan); }
 .exe-text h3::before { content: "### "; color: var(--hk-cyan); }
 .exe-text a {
-  color: var(--hk-cyan);
+  color: #000;
   text-decoration-style: dotted;
   text-underline-offset: 3px;
 }
-.exe-text a:hover { color: #fff; text-shadow: 0 0 8px var(--hk-cyan); }
+.exe-text a:hover { color: #000; text-shadow: 0 0 8px var(--hk-cyan); }
 .exe-text li::marker { color: var(--hk-green); }
 .exe-text hr { border: 0; border-top: 1px dashed rgba(0, 255, 156, .4); }
 /* citas = alertas */
@@ -304,7 +304,7 @@
 .exe-text pre code { padding: 0; background: none; border: 0; }
 .exe-text table { border-collapse: collapse; }
 .exe-text th, .exe-text td { padding: .45rem .8rem; border: 1px solid rgba(0, 255, 156, .3); }
-.exe-text th { color: var(--hk-green); font-family: var(--hk-mono); background: rgba(0, 255, 156, .08); }
+.exe-text th { color: #000; font-family: var(--hk-mono); background: rgba(0, 255, 156, .08); }
 
 /* ---------- EXTRAS PARA ESCRIBIR EN EL TEXTO (opcionales) ----------
    <span class="hk-censurado">dato privado</span>  → barra negra; se revela al pasar el cursor
@@ -425,7 +425,7 @@
 :is(.exe-web-site, .exe-single-page) {
   min-height: 100vh;
   color: var(--hk-ink);
-  color-scheme: dark;
+  color-scheme: light;
   background-color: var(--hk-bg);
   background-image:
     radial-gradient(ellipse 60% 40% at 0% 0%, rgba(0, 255, 156, .10), transparent 70%),
@@ -434,10 +434,10 @@
     linear-gradient(90deg, rgba(0, 255, 156, .035) 1px, transparent 1px);
   background-size: auto, auto, 44px 44px, 44px 44px;
   background-repeat: no-repeat, no-repeat, repeat, repeat;
-  scrollbar-color: rgba(0, 255, 156, .5) #020605;
+  scrollbar-color: rgba(0, 255, 156, .5) #ffffff;
 }
 /* enlaces sueltos: bajo peso para que cualquier clase los sobreescriba */
-:where(.exe-web-site, .exe-single-page) a { color: var(--hk-cyan); }
+:where(.exe-web-site, .exe-single-page) a { color: #000; }
 :is(.exe-web-site, .exe-single-page) ::selection { color: #02100b; background: var(--hk-green); }
 
 /* ==========================================================
@@ -458,7 +458,7 @@
   margin: 0;
   padding: 0;
   float: none;
-  background-color: #030706;
+  background-color: #ffffff;
   /* línea de escaneo que recorre el borde inferior */
   background-image: linear-gradient(90deg, transparent, var(--hk-green), transparent);
   background-repeat: no-repeat;
@@ -478,7 +478,7 @@
   gap: .75rem;
   margin: 9px 12px;
   padding: .5rem 1rem .5rem .9rem;
-  color: var(--hk-green);
+  color: #000;
   font-family: var(--hk-mono);
   font-size: .85rem;
   font-weight: 700;
@@ -504,7 +504,7 @@
   max-width: 40vw;
   padding-left: .8rem;
   overflow: hidden;
-  color: var(--hk-muted);
+  color: #000;
   font-weight: 400;
   letter-spacing: .3px;
   text-transform: none;
@@ -553,7 +553,7 @@
   box-sizing: border-box;
   height: 38px;
   padding: 0 1rem 0 46px;
-  color: var(--hk-green);
+  color: #000;
   font-family: var(--hk-mono);
   font-size: .85rem;
   font-weight: 700;
@@ -584,7 +584,7 @@
   overflow-y: auto;
   list-style: none;
   counter-reset: hk-n;
-  background: linear-gradient(180deg, #06140f, #030706);
+  background: #ffffff;
   border: 1px solid rgba(0, 255, 156, .4);
   border-top: 0;
   border-radius: 0 0 8px 8px;
@@ -638,7 +638,7 @@
   gap: .75rem;
   margin: 2px 0;
   padding: .65rem .9rem;
-  color: #b9d9cd;
+  color: #000;
   font-family: var(--hk-mono);
   font-size: .92rem;
   text-decoration: none;
@@ -649,14 +649,14 @@
 .exe-web-site #siteNav a:hover,
 .exe-web-site #siteNav a:focus-visible {
   padding-left: 1.15rem;
-  color: #fff;
+  color: #000;
   background: rgba(0, 255, 156, .10);
   border-left-color: rgba(0, 255, 156, .6);
   outline: none;
 }
 .exe-web-site #siteNav a.active,
 .exe-web-site #siteNav li.active > a {
-  color: var(--hk-green);
+  color: #000;
   font-weight: 700;
   background: rgba(0, 255, 156, .14);
   border-left-color: var(--hk-green);
